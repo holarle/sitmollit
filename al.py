@@ -1,0 +1,1 @@
+NJORDA_API_SERVER = os.environ["NJORDA_API_SERVER"]
